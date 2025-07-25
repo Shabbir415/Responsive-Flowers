@@ -281,14 +281,14 @@ section {
 
 .deal-card1 {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/deal-bloom.png") center/cover no-repeat;
+        url("deal-bloom.png") center/cover no-repeat;
 }
 
 .deal-card2 {
     grid-column: span 2;
     grid-row: span 2;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/deal-zabo.png") center/cover no-repeat;
+        url("deal-zabo.png") center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -302,14 +302,14 @@ section {
 
 .deal-card3 {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("/deal-ana.png") center/cover no-repeat;
+        url("deal-ana.png") center/cover no-repeat;
 }
 
 /* subscription section */
 .subscription {
     text-align: center;
     background: linear-gradient(rgba(0, 0, 0, 0.186), rgba(0, 0, 0, 0.121)),
-        url("/news-letter-bg.png") center/cover no-repeat;
+        url("news-letter-bg.png") center/cover no-repeat;
 
     padding: 200px 0;
 
